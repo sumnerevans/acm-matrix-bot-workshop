@@ -1,6 +1,7 @@
 .direnv/
 .vim
 demos/access-token
+examples/**/*.mbp
 
 # Created by https://www.gitignore.io/api/latex
 
